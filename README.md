@@ -5,5 +5,5 @@ Moving Text Explosion by java
 
 <img width="601" height="470" alt="image" src="https://github.com/user-attachments/assets/e056f6b3-210d-482b-a78b-cd61e620020e" />
 
-![Demo]
-"C:\Users\NguyenDucAnh\Downloads\Screen Recording 2025-07-30 065510.gif"
+![Demo Animation](assets/demo.gif)
+
